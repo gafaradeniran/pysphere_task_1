@@ -1,3 +1,4 @@
+# Adeniran, Gafar Olakunle
 print("Welcome\nThis program calculates Ohms Law")
 i = float(input("Enter the value of current (I): "))
 r = float(input("Enter the value of resistance (R): "))
